@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨‍🏫 Adarsh Thakur
 
-<!--
-**myselfadarshthakur/myselfadarshthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m a **Mathematics Teacher (Class 9–12)** with over 5 years of teaching experience across CBSE, IGCSE, and international boards. I also work as a **CBSE paper evaluator**, with a deep passion for making math simpler and more visual through **LaTeX**, **mind maps**, and **digital tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do
+
+- ✍️ Design LaTeX-based notes, question papers, and mind maps
+- 🎯 Specialise in CBSE Class 11 & 12 Mathematics (Calculus, Algebra, Vectors)
+- 📊 Use tools like Overleaf, Zoom, Google Classroom, MS Whiteboard
+- 🌐 Teach students internationally (CBSE, IB, IGCSE, and US curriculum)
+
+---
+
+### 🔧 Skills
+
+- 📌 LaTeX & Overleaf
+- 🎥 Online teaching (Zoom, Google Meet)
+- 🧑‍💻 Assessment creation & evaluation (CBSE)
+- 💡 Mind map & visual concept creation
+- 🔍 Student-centric approach & interactive methods
+
+---
+
+### 📂 Featured Project
+
+📘 **[CBSE-Class12-Maths-LaTeX](https://github.com/myselfadarshthakur/CBSE-Class12-Maths-LaTeX)**  
+> A collection of LaTeX-based notes, question papers, and mind maps for CBSE Class 12 Mathematics.
+
+---
+
+### 📫 Contact Me
+
+- Email: adarsht838@gmail.com  
+- GitHub: [@myselfadarshthakur](https://github.com/myselfadarshthakur)  
+- LinkedIn: https://www.linkedin.com/in/adarsh-thakur-01j97/
+
+---
+
+🔗 *Let’s make math more beautiful and accessible with LaTeX and the right tools!*
