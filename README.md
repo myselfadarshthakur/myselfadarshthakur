@@ -34,7 +34,7 @@ I’m a **Mathematics Teacher (Class 9–12)** with over 5 years of teaching exp
 
 ### 📫 Contact Me
 
-- Email: adarsht838@gmail.com  
+- Email: myselfadarshthakur@gmail.com  
 - GitHub: [@myselfadarshthakur](https://github.com/myselfadarshthakur)  
 - LinkedIn: https://www.linkedin.com/in/adarsh-thakur-01j97/
 
